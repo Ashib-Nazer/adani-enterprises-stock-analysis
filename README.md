@@ -23,6 +23,10 @@ The analysis was performed using Python (Pandas) and visualized using Tableau to
 - Market volatility was followed by recovery and stabilization.
 - Business events had a visible impact on stock performance.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.jpeg)
+
 ## Files Included
 - Analysis_Report.pdf
 - Adani stock analysis.ipynb
